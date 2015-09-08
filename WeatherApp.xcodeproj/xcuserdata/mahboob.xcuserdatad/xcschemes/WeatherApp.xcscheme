@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2C2743911B9ECCC1008D0F05"
-               BuildableName = "WeatherAppWithBackgroundAppRefresh.app"
-               BlueprintName = "WeatherAppWithBackgroundAppRefresh"
-               ReferencedContainer = "container:WeatherAppWithBackgroundAppRefresh.xcodeproj">
+               BuildableName = "WeatherApp.app"
+               BlueprintName = "WeatherApp"
+               ReferencedContainer = "container:WeatherApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,24 +28,14 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2C2743AC1B9ECCC2008D0F05"
-               BuildableName = "WeatherAppWithBackgroundAppRefreshTests.xctest"
-               BlueprintName = "WeatherAppWithBackgroundAppRefreshTests"
-               ReferencedContainer = "container:WeatherAppWithBackgroundAppRefresh.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2C2743911B9ECCC1008D0F05"
-            BuildableName = "WeatherAppWithBackgroundAppRefresh.app"
-            BlueprintName = "WeatherAppWithBackgroundAppRefresh"
-            ReferencedContainer = "container:WeatherAppWithBackgroundAppRefresh.xcodeproj">
+            BuildableName = "WeatherApp.app"
+            BlueprintName = "WeatherApp"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +52,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2C2743911B9ECCC1008D0F05"
-            BuildableName = "WeatherAppWithBackgroundAppRefresh.app"
-            BlueprintName = "WeatherAppWithBackgroundAppRefresh"
-            ReferencedContainer = "container:WeatherAppWithBackgroundAppRefresh.xcodeproj">
+            BuildableName = "WeatherApp.app"
+            BlueprintName = "WeatherApp"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +70,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2C2743911B9ECCC1008D0F05"
-            BuildableName = "WeatherAppWithBackgroundAppRefresh.app"
-            BlueprintName = "WeatherAppWithBackgroundAppRefresh"
-            ReferencedContainer = "container:WeatherAppWithBackgroundAppRefresh.xcodeproj">
+            BuildableName = "WeatherApp.app"
+            BlueprintName = "WeatherApp"
+            ReferencedContainer = "container:WeatherApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

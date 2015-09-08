@@ -15,7 +15,12 @@
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
+    weatherViewController=[[WeatherViewController alloc]initWithNibName:@"WeatherViewController" bundle:nil];
+    self.window.rootViewController=weatherViewController;
     [self.window makeKeyAndVisible];
+    
+  
+    
     return YES;
 }
 

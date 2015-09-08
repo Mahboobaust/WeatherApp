@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WeatherViewController.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
+{
+    WeatherViewController *weatherViewController;
+
+}
 
 @property (strong, nonatomic) UIWindow *window;
-
+@property (nonatomic, strong) NSString *temperature;
 @end
